@@ -75,3 +75,8 @@ img {
     border-color: #2f2a2d;
     color: #2f2a2d;
 }
+
+.hamburger{
+    padding:40px 80px;
+    border-top: 1px solid;
+}
